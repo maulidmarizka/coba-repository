@@ -4,5 +4,5 @@ RENCANA baru
 -JAVA
 -CSS
 -views
--next js
+-phyton
 -react
