@@ -3,3 +3,5 @@ RENCANA baru
 -HTML
 -JAVA
 -CSS
+-views
+-phyton
